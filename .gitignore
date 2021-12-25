@@ -1,0 +1,11 @@
+<!-- /mylogs.log -->
+<!-- (used to ignore only root files) -->
+
+<!-- mylogs.log -->
+<!-- used to ignore all files named mylogs.log -->
+ 
+# *.log
+<!-- used to ignore all log files -->
+
+this/
+<!-- used to ignore this folder -->
